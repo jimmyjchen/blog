@@ -66,3 +66,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Front end
 
 gem 'simple_form'
+
+# Security
+
+gem 'dotenv-rails', groups: [:development, :test]
